@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  Tolkein = ["Fellowship", "Two Towers", "Return of the King", "Hobbit"]
+  ["Fellowship", "Two Towers", "Return of the King", "Hobbit"]
 end
 
 def add_element_to_end_of_array(array, element)
